@@ -1,0 +1,2 @@
+rootProject.name = "NBU_android_calculator"
+include ':app' 
